@@ -5,6 +5,7 @@ relative_links:
   collections: true
 
 include:
-  ingredients.md
-  recipe.md
+  - README.md
+  - ingredients.md
+  - recipe.md
 theme: jekyll-theme-slate
