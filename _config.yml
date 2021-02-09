@@ -7,3 +7,4 @@ relative_links:
 include:
   ingredients.md
   recipe.md
+theme: jekyll-theme-slate
